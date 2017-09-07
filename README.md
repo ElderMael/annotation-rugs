@@ -27,7 +27,7 @@ Name | Required | Default | Description
 Run this Rug as follows:
 
 ```
-$ rug edit "atomist-contrib:add-annotation-to-type:AddAnnotationToEveryTypeInPackage" -a 0.1.0 packageOfTypesToAnnotate=com.example annotationPackage=lombok annotationName=Builder
+$ rug edit "eldermael:add-annotation-to-type:AddAnnotationToEveryTypeInPackage" -a 0.1.0 packageOfTypesToAnnotate=com.example annotationPackage=lombok annotationName=Builder
 ```
 
 It adds an annotation type to every type in the package you specify
